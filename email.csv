@@ -1,0 +1,11 @@
+From,To,Date,Subject,CC,Body
+john.doe@example.com,jane.smith@example.com,Mon, 21 Mar 2024 10:05:32 -0400,manager@example.com,Hi Jane,\n\nJust a reminder about our meeting tomorrow at 10 AM.\n\nBest,\nJohn
+alice.jones@example.com,"bob.brown@example.com, sam.wilson@example.com",Tue, 22 Mar 2024 12:00:00 -0400,"ceo@example.com, hr@example.com",Hi Bob,\n\nHere’s the latest update on the project.\n\nCheers,\nAlice
+charlie.white@example.com,david.green@example.com,Wed, 23 Mar 2024 14:30:00 -0400,,Hi David,\n\nAre we still on for lunch at noon?\n\nThanks,\nCharlie
+eve.peters@example.com,"frank.nelson@example.com, alice.james@example.com",Thu, 24 Mar 2024 09:15:00 -0400,team@example.com,Hi Frank,\n\nJust a reminder about the conference next week.\n\nBest,\nEve
+george.adams@example.com,hannah.wilson@example.com,Fri, 25 Mar 2024 11:45:00 -0400,,Hi Hannah,\n\nPlease find attached the weekly report.\n\nRegards,\nGeorge
+isaac.carter@example.com,julia.thomas@example.com,Sat, 26 Mar 2024 16:20:00 -0400,,Hi Julia,\n\nCould you please provide feedback on my last email?\n\nThanks,\nIsaac
+kathy.morris@example.com,"leo.baker@example.com, tom.jones@example.com",Sun, 27 Mar 2024 15:00:00 -0400,friends@example.com,Hi Leo,\n\nLet’s finalize our holiday plans this week.\n\nBest,\nKathy
+mike.james@example.com,nina.johnson@example.com,Mon, 28 Mar 2024 08:30:00 -0400,,Hi Nina,\n\nI’d like to confirm our meeting for tomorrow.\n\nThanks,\nMike
+olivia.lee@example.com,"paul.kim@example.com, kate.brown@example.com",Tue, 29 Mar 2024 13:10:00 -0400,sales@example.com,Hi Paul,\n\nAttached is the sales pitch for your review.\n\nRegards,\nOlivia
+quinn.jones@example.com,rachel.smith@example.com,Wed, 30 Mar 2024 17:05:00 -0400,,Hi Rachel,\n\nJust following up on our previous conversation.\n\nCheers,\nQuinn
